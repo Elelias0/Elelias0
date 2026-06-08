@@ -1,12 +1,13 @@
 <div align="center">
 
 # Elias Castellanos
-### Senior Software Developer
+### Mainframe & Python Engineer · 🇲🇽 → 🇯🇵 Tokyo
 
 *Where enterprise-scale Mainframe meets modern Python backends*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elias-castellanos.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-jacob-castellanos-velazquez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elias.casvel@gmail.com)
 
 </div>
 
@@ -14,9 +15,9 @@
 
 ## About Me
 
-Senior developer with deep roots in **IBM Z Mainframe** and a constant drive to explore modern stacks. I work at the intersection of mission-critical enterprise systems and contemporary backend development — where reliability, precision, and performance are non-negotiable.
+Mexican engineer based in **Shibuya, Tokyo 🇯🇵** with **8+ years of experience** in IBM Z Mainframe systems. I work at the intersection of mission-critical enterprise infrastructure and modern backend development — where reliability, precision, and performance are non-negotiable.
 
-I believe the best engineers never stop learning. Whether it's optimizing a COBOL batch job or architecting a FastAPI microservice, I bring the same rigor to every layer of the stack.
+Currently expanding into Python, FastAPI, embedded systems, and AI-powered applications. I believe the best engineers never stop learning.
 
 ---
 
@@ -32,14 +33,26 @@ TSO/ISPF   │  IBM zSeries
 
 ---
 
-## 🐍 Modern Backend
+## 🐍 Modern Stack
 
 ```python
 languages  = ["Python"]
-frameworks = ["FastAPI", "Flask"]
+frameworks = ["FastAPI", "Flask", "Pandas", "Selenium", "BeautifulSoup"]
 databases  = ["DB2", "PostgreSQL"]
+embedded   = ["Arduino", "Microcontrollers", "Bluetooth hardware"]
+automation = ["GitHub Actions", "Python scripts"]
 always     = "learning something new"
 ```
+
+---
+
+## 🌐 Languages
+
+| Language | Level |
+|----------|-------|
+| Spanish  | Native 🇲🇽 |
+| English  | Business — C1 🇺🇸 |
+| Japanese | JLPT N3 🇯🇵 |
 
 ---
 
@@ -58,7 +71,7 @@ always     = "learning something new"
 
 <div align="center">
 
-**Open to collaborating on backend projects, developer tools, and anything with an interesting technical challenge.**
+📍 Shibuya, Tokyo &nbsp;|&nbsp; 💼 Open to collaboration
 
 [![Portfolio](https://img.shields.io/badge/See%20my%20work-elias--castellanos.onrender.com-58a6ff?style=flat-square)](https://elias-castellanos.onrender.com/)
 
