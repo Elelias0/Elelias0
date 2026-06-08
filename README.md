@@ -50,18 +50,6 @@ always     = "learning something new"
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elelias0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elelias0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
 ## 💡 Philosophy
 
 > *"The mainframe taught me that correctness is not optional. Modern development taught me that speed of iteration matters. I try to bring both to everything I build."*
